@@ -1,0 +1,11 @@
+.sudoku{
+	width:30%;
+	height:30vw; /*30% viewpoint width*/
+	background-color: orange; 
+	float: left;
+	margin-top: 5%;
+	margin-left: 3%;
+	display: flex;
+	flex-wrap: wrap;
+	border-radius: 10%;
+}
