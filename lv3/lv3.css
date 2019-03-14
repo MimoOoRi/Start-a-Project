@@ -1,0 +1,45 @@
+body{
+	background-color: #68CDD5;
+	font-size: 0.8125rem;
+	font-family: HiraginoSansGB-W3, sans-serif;
+	line-height: 1.875rem;
+	color: #FFFFFF;
+	width: 100vw;
+} 
+.back{
+     width: 1.5625rem;
+     margin-top: 0.625rem;
+     margin-left: 0.625rem;
+}
+.logo{
+     width: 4.375rem;
+     margin-top: 1.875rem;
+}
+.text{
+	text-align: left;
+	width: 80vw;
+	margin-top: 1.25rem;
+	left: 12vw; 
+} 
+.pic{
+	width: 2.8125rem; 
+	top: 60vh; 
+	position: absolute;
+}
+.blue{  
+	left: 14vw;  
+}
+.green{ 
+	right: 16vw;  
+}
+.TextDown{
+	width: 3.75rem;
+	top: 68vh; 
+	position: absolute;
+}
+.t-right{ 
+	right: 14vw;  
+}
+.t-left{
+	left: 12vw; 
+}
